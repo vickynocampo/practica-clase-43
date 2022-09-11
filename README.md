@@ -1,3 +1,12 @@
+Pasos aplicados:
+1. Se agrega Web linea 9 de index.js
+2. Se crea la carpeta components
+3. Se crean los componentes: Encabezado, Banner, Producto y Footer
+4. En Encabezado se cierra la etqueta img, se importa el logo yse suplanta la linea de la img con la de la consigna
+5. En Banner se copia el html de la consigna
+6. En Producto se copia el html de la consigna, se importan las imagenes de los relojes, se cierran las etiquetas img y se ponen la img importadas en cada src
+7. En Footer se copia el html de la consigna. Idem punto 6 con img del logo-DH 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
