@@ -1,0 +1,7 @@
+1. Se agrega Web linea 9 de index.js
+2. Se crea la carpeta components
+3. Se crean los componentes: Encabezado, Banner, Producto y Footer
+4. En Encabezado se cierra importa el logo y suplanta la linea de la img con la de la consigna
+5. En Banner se copia el html de la consigna
+6. En Producto se copia el html de la consigna, se importan las imagenes de los relojes, se cierran las etiquetas img y se ponen la img importadas en cada src
+7. En Footer se copia el html de la consigna. Idem punto 6 con img del logo-DH 
